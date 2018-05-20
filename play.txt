@@ -1,0 +1,1 @@
+open and click and play. It is just a basic implementation and not a full fledged game.
